@@ -3,7 +3,7 @@
 Data Science sophomore at High Point University passionate about turning data into insights.
 
 ### 🔭 Currently working on:
--
+
 
 ### 🌱 Learning:
 - Developing data visualizations using R and Python to represent trends and relationships in datasets, including charts, graphs, maps, and dashboards for effective communication of insights.
@@ -15,8 +15,7 @@ Data Science sophomore at High Point University passionate about turning data in
 - Tools: R Studio, Visual Studio Code, Excel, Gephy, Maple Software
 
 ### 📊 Featured Projects
-- [Project 1 Title](link-to-repo) — Brief description
-- [Project 2 Title](link-to-repo) — Brief description
+- 
 
 ### 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/nathan-kehring-ba3881342
