@@ -15,7 +15,8 @@ Data Science sophomore at High Point University passionate about turning data in
 - Tools: R Studio, Visual Studio Code, Excel, Gephy, Maple Software
 
 ### 📊 Featured Projects
-- 
+- ### 📊 Featured Projects
+- [2019 Women's World Cup Finals Prediction](https://github.com/NK7774/Women-s-Soccer-World-Cup-Finals-Prediction) — Analyzed factors influencing team success using R and regression models.
 
 ### 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/nathan-kehring-ba3881342
